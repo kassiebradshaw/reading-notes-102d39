@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# My Reading Journal!!!!!!!!!!!
 
-You can use the [editor on GitHub](https://github.com/kassiebradshaw/reading-notes-102d39/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi my name's Kassie Bradshaw and I'm a software developer specializing in Python! I'm an instructor at Code Fellows.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Growth Mindset
 
-### Markdown
+What does growth mindset mean to me? It means adapt, improvise, overcome.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Never give up
+2. Reminder 2
+3. Reminder 3
 
-```markdown
-Syntax highlighted code block
+- Reminder 1
+- Reminder 2
+- Reminder 3
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kassiebradshaw/reading-notes-102d39/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Put some text under the list
