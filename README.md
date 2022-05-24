@@ -1,4 +1,4 @@
-# My Reading Journal!!!!!!!!!!!
+# My Reading Journal!
 
 Hi my name's Kassie Bradshaw and I'm a software developer specializing in Python! I'm an instructor at Code Fellows.
 
